@@ -135,8 +135,3 @@ The ‘UnionPizzeria’ Scene contains the final project scene.
 
 
 
-4. Conclusion
-- The Union Pizzeria Project was as culmination of working with various 3d modelling, raster graphics softwares and bringing them all into Unity to create a gamified workflow of a restaurant functioning simulation. 
-- Various concepts have been explored, learned and executed as a part of this project (3D modeling, UV Unwrapping, Texturing, Rendering, Animation, Shaders, UI, Triggers/Bounds, Scripting, Navigation/Pathfinding etc ). 
-- This project was a demonstration of how different things interact with each other and how all the modules are interlinked with each other and how they all come together as a whole project. 
-
