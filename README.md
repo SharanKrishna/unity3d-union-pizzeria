@@ -1,7 +1,7 @@
 # unity3d-union-pizzeria
 Unity 3d application showing a working simulation of a trainee working in a restaurant
 
-1. Abstract:
+1. Abstract
 - The project is a simulation of working in a restaurant (based on the Union building food stall, UWM). 
 - It is not a real-life simulation. 
 - The tasks are slightly gamified. 
@@ -132,6 +132,7 @@ The ‘UnionPizzeria’ Scene contains the final project scene.
 •	Accuracy/Feedback
 1.	The accuracy is calculated using a dictionary which stores the pizza preparation order (the one we make), the height values of the sauce and cheese meshes, how much topping is used (each time ‘E’ is pressed, a count value is calculated), the time kept inside the oven.
 2.	The accuracy score is first 100f and as we keep comparing, we keep reducing the score and adding comments to the feedback string (Refer to DeliveryTray.cs script)		
+
 
 
 4. Conclusion
