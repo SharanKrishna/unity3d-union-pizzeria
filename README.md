@@ -1,5 +1,7 @@
-# unity3d-union-pizzeria
+# unity3d-union-pizzeria - Link: https://drive.google.com/file/d/1fOR8FsTaj5RuBPJYpXC8Clom35k0EFU1/view?usp=sharing
 Unity 3d application showing a working simulation of a trainee working in a restaurant
+Unity Version Used: 2020.3.29f1 (LTS).
+Download>Unzip>Open_in_unity>Start Playing!
 
 1. Abstract
 - The project is a simulation of working in a restaurant (based on the Union building food stall, UWM). 
@@ -17,6 +19,7 @@ Unity 3d application showing a working simulation of a trainee working in a rest
 2. Program design 
 
 2.1	Models
+
 Food Prefab 1
 •	Contains all the Topping Ingredients
 •	There are three toppings (Pepperoni, Mushroom, Olive)
@@ -71,6 +74,7 @@ Navigation Pathfinding
 
 
 2.3	UI
+
 •	Player Canvas
 This UI elements displays the ‘Item Name’ on the bottom right of the screen and ‘Timer’ sprite on the bottom left of the screen when the game is running
 •	HeadBoard Back Screen
